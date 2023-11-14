@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="AyamOrganik">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/AyamOrganik.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
